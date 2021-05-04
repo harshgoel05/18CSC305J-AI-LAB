@@ -1,0 +1,5 @@
+1
+B(Harsh)
+2
+A(x)
+~A(x) | B(Harsh)
